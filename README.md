@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravivish
 - 👀 I’m interested in Software Engineering Stuff.
-- 🌱 I’m currently learning Frontend.
+- 🌱 I’m currently learning FullStack.
 - 💞️ I’m looking to collaborate on Open Source Project.
 - 📫 How to reach me https://www.linkedin.com/in/ravi-vishwakarma-99671513a/
 
